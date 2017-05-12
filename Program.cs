@@ -15,7 +15,7 @@ namespace Example6
             double pai;
             String name;
 
-            score = 25;
+            score = (int)0.5;
             pai = 3.1415;
             name="TARO";
 
